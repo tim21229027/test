@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase": "^9.6.1",
+    "vue": "^3.2.26"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.26"
+  }
+}
